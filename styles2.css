@@ -1,0 +1,103 @@
+nav {
+  height: 70px;
+  background-color: #F9F5F6;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 20px;
+  background-color: #101010;
+  color: #F9F5F6;
+}
+
+*,
+body {
+  position: relative;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+
+#header {
+  /* font-size: 20px; */
+  font-family: "Short Stack";
+  text-align: center;
+}
+
+.search button {
+  padding: 10px 12px;
+  border: 1px solid #eee;
+  border-radius: 3px;
+  color: #F9F5F6;
+  background-color: transparent;
+  cursor: pointer;
+}
+
+.container {
+  padding: 30px 200px;
+}
+
+h1 {
+  font-size: 80px;
+  font-family: "Short Stack";
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.control {
+  margin-bottom: 10px;
+}
+
+hr {
+  margin: 10px 0;
+}
+
+.container {
+  background-image: linear-gradient(#eea1cd, white);
+  
+}
+
+.about {
+    padding: 100px 12px;
+    font-family: "Short Stack";
+}
+
+.title {
+      padding: 50px 12px;
+}
+
+.paragraph {
+  font-family: "Short Stack";
+  width: 50rem;
+}
+span{
+    text-decoration-line: underline;
+    text-decoration-color: black;
+    text-decoration-style: dashed;
+}
+
+h2 {
+  font-size: 35px;
+  text-shadow: 2px 2px 5px 		#9c6082;
+}
+
+.skills {
+  padding: 10px 12px;
+  font-family: "Short Stack";
+}
+
+#me {
+  width: 270px;
+  height: 697px;
+  float: right;
+  ;
+}
+
+.contact-me{
+  text-align: center;
+  font-family: "Short Stack";
+}
+
+.bottom-container{
+  text-align: center;
+  font-family: "Short Stack";
+}
